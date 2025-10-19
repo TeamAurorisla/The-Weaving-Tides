@@ -9,5 +9,5 @@ mods/*
 
 #files
 !.gitignore
-!knownkeys.txt
+!icon.png
 !options.txt
