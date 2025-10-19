@@ -6,7 +6,7 @@
     "To access config ingame, use the mod modmenu."
   ],
   "Hotbar": {
-    "Smoothness": 0.2,
+    "Smoothness": 0.0,
     "Rollover": false
   },
   "Chat": {
