@@ -1,0 +1,16 @@
+filename = 'RocknRoller-0.1.4-mc1.20.1.jar'
+name = "Rock'n Roller"
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '57ae13b8b1f17613aac4d00850de87e2b564eca1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5374987
+project-id = 916852

@@ -1,0 +1,16 @@
+filename = 'nbtedit-forge-5.2.8.jar'
+name = 'In-game NBTEdit Reborn'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f4f013ebdb771424084ceb8fbc7a30ba6242b38a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5984630
+project-id = 678133

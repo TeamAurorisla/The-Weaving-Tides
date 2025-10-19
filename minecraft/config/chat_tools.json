@@ -1,0 +1,102 @@
+{
+  "config.version": 2.311,
+  "general.ChatTools.Enabled": true,
+  "general.ShowWelcomeMessageEnabled": false,
+  "general.CircuitBreaker.ToastThreshold": 10,
+  "general.CircuitBreaker.NickHiderThreshold": 15,
+  "general.CircuitBreaker.OverrideChatColorThreshold": 15,
+  "general.Timestamp.Enabled": true,
+  "general.Timestamp.Pattern": "&2{hour}:{minute} &8| &r",
+  "general.Timestamp.CopyToChatBar.Enabled": false,
+  "general.RestoreMessages.Enabled": true,
+  "general.RestoreMessages.SplitLineEnabled": true,
+  "general.ExclusiveActionbar.Enabled": false,
+  "general.ExclusiveActionbar.XOffset": 0,
+  "general.ExclusiveActionbar.YOffset": 0,
+  "general.ExclusiveActionbar.Size": 1.0,
+  "general.NickHider.Enabled": false,
+  "general.NickHider.Nickname": "&6You&r",
+  "general.NickHider.CacheSize": 200,
+  "general.ChatCompactor.Enabled": true,
+  "general.ChatCompactor.UseStrict": false,
+  "general.ChatCompactor.MaxOccurrence": 100,
+  "general.ChatHistoryNavigator.Enabled": true,
+  "general.PreviewClickEvents.Enabled": true,
+  "general.Translator.Enabled": false,
+  "general.Translator.API": "",
+  "general.Translator.PostInstead": false,
+  "general.MaxHistoryLength": 500,
+  "general.IncreaseChatFieldMaxLength": false,
+  "general.HideChatHistoryInF1Mode": false,
+  "general.OverrideChatColor.Enabled": false,
+  "general.UseSendPacketsForSendingMessages": false,
+  "notifier.Toast.Enabled": false,
+  "notifier.Toast.Mode": "ADDON",
+  "notifier.Sound.Enabled": true,
+  "notifier.Sound.Type": "block.note_block.bit",
+  "notifier.Sound.Volume": 80,
+  "notifier.Sound.Pitch": 10,
+  "notifier.Sound.PlaySoundFromCameraPositionEnabled": true,
+  "notifier.Actionbar.Enabled": false,
+  "notifier.Highlight.Enabled": true,
+  "notifier.Highlight.Prefix": "&6[!]&r ",
+  "notifier.Highlight.OverwriteEnabled": false,
+  "notifier.Highlight.InsertBeforeTimestamps": false,
+  "notifier.IgnoreMyMessageEnabled": true,
+  "notifier.MatchMyNameEnabled": true,
+  "notifier.AllowList": [],
+  "notifier.BanList": [],
+  "formatter.Enabled": false,
+  "formatter.List": [],
+  "formatter.DisableOnMatchList": [
+    "^(\\+|-)?\\d+(\\.\\d+)?$|^[.#%$/].*|\\ball\\b",
+    "(^(\\[|<)i(tem)?(\\]|>)$)"
+  ],
+  "chatkeybindings.RepeatKey": "key.keyboard.unknown",
+  "chatkeybindings.RepeatKeyModifier": "NONE",
+  "chatkeybindings.Macro.Enabled": true,
+  "chatkeybindings.Macro.List": [],
+  "bubble.Enabled": true,
+  "bubble.Lifetime": 8,
+  "bubble.YOffset": 0,
+  "bubble.MaxLineWidth": 190,
+  "bubble.List": [
+    {
+      "address": ".*\\.hypixel\\.net",
+      "pattern": "(?<name>\\S+): (?<message>.*)",
+      "fallback": false
+    },
+    {
+      "address": "*",
+      "pattern": "<(?<name>.*)> (?<message>.*)",
+      "fallback": false
+    }
+  ],
+  "responder.Enabled": false,
+  "responder.RespondToFilteredMessages": false,
+  "responder.List": [
+    {
+      "address": "*",
+      "pattern": "Repeat my words:(?<word>.*)",
+      "message": "You said {word}.",
+      "delayInMilliseconds": 50,
+      "forceDisableFormatter": false
+    }
+  ],
+  "filter.Enabled": false,
+  "filter.FilteredPlaceholderEnabled": true,
+  "filter.List": [
+    "<CHANGE ME>"
+  ],
+  "customJoinMessage.Enabled": false,
+  "customJoinMessage.List": [
+    {
+      "address": "*",
+      "message": "/login xxx",
+      "delayInMilliseconds": 1000,
+      "forceDisableFormatter": false
+    }
+  ],
+  "general.DisableTextObfuscation.Enabled": false,
+  "formatter.DisableThreshold": 256
+}

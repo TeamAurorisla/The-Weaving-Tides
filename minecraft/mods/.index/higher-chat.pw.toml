@@ -1,0 +1,16 @@
+filename = 'higher-chat-1.1.jar'
+name = 'Higher Chat (chat above armor bar)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f663a24086c2796cd9d6dfbe3b19b83b6e418cb6e31c4e775018a4d910767f3e7394fcc8f91934b2e3bca1140e4c75a5cc51a29bc19e7399280a69456865f09a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6mzqOyq8/versions/Er2PJzTt/higher-chat-1.1.jar'
+
+[update.modrinth]
+mod-id = '6mzqOyq8'
+version = 'Er2PJzTt'

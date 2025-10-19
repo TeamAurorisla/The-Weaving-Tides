@@ -1,0 +1,16 @@
+filename = 'ImmersiveUI-FORGE-0.3.0.jar'
+name = 'Immersive UI'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b2b36a49f1b8daf8d8fc0521f532fb706649c09c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6023593
+project-id = 1021685

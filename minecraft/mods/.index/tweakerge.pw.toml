@@ -1,0 +1,16 @@
+filename = 'Tweakerge-0.1.5-mc1.20.1.jar'
+name = 'Tweakerge'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ed14b5aafc3540748dae85a4e1354d4a3ef555d0e9b7716dec3264f859de0dcebf6f621e437afbe1c89b1d1cc3795dc904654244aef2f8cbe96c35a252888d0a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yke6wdGF/versions/CYN4k7x6/Tweakerge-0.1.5-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'yke6wdGF'
+version = 'CYN4k7x6'

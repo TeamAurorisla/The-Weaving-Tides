@@ -1,0 +1,13 @@
+#folders
+!config/
+config/*
+!mods/
+mods/*
+!defaultconfigs/
+!kubejs/
+!patchouli_books/
+
+#files
+!.gitignore
+!knownkeys.txt
+!options.txt
