@@ -1,6 +1,6 @@
 filename = 'GPUTape-1.18x-1.21x-1.0.5.1.jar'
 name = 'GPUBooster'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [
     '1.18',

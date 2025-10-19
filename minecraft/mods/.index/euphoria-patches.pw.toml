@@ -1,4 +1,4 @@
-filename = 'EuphoriaPatcher-1.6.8-r5.5.1-forge.jar'
+filename = 'EuphoriaPatcher-1.7.3-r5.6.1-forge.jar'
 name = 'EuphoriaPatcher'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -53,6 +53,8 @@ x-prismlauncher-mc-versions = [
     '1.21-Snapshot',
     '1.21.1',
     '1.21.1-Snapshot',
+    '1.21.10',
+    '1.21.11-snapshot',
     '1.21.2',
     '1.21.2-Snapshot',
     '1.21.3',
@@ -70,11 +72,11 @@ x-prismlauncher-mc-versions = [
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a9b749db7f2196f06043a86191d6961f2636f52f'
+hash = '9e9d927d6566df96457073b48ebcc214682b9f87'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6987509
+file-id = 7124808
 project-id = 915902
