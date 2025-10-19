@@ -1,6 +1,7 @@
 #folders
 !inventoryprofilesnext/
 inventoryprofilesnext/*
+!fancymenu/
 !incontrol/
 !InventoryHUD/
 !jade/
