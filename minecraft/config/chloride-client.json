@@ -11,7 +11,7 @@
   "fog": true,
   "blueBand": true,
   "customFog": true,
-  "fogStart": -160,
+  "fogStart": -100,
   "fogEnd": 300,
   "fogShape": "CYLINDER",
   "cloudsHeight": 192,
@@ -63,6 +63,6 @@
   ],
   "borderlessAttachModeF11": "ATTACH",
   "fastLanguageReload": true,
-  "enableZoom": true,
+  "enableZoom": false,
   "maxZoom": 50.0
 }
