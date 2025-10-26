@@ -13,7 +13,9 @@ inventoryprofilesnext/*
 !inventoryprofilesnext/inventoryprofiles.json
 !betterfpsdist.json
 !chloride-client.json
+!clearwater.jsonc
 !cull-less-leaves.json
+!deeper_oceans.json
 !embeddium*.*
 !emi*.*
 !immediatelyfast.json

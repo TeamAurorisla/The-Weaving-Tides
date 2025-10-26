@@ -21,16 +21,16 @@
 	ignore_rarity = false
 	#Screen corner for entry list to be drawn in.
 	#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
-	screen_corner = "BOTTOM_LEFT"
+	screen_corner = "BOTTOM_RIGHT"
 	#Offset on x-axis from screen border.
 	#Range: > 0
-	offset_x = 80
+	offset_x = 4
 	#Offset on y-axis from screen border.
 	#Range: > 0
 	offset_y = 4
 	#Percentage of relative screen height entries are allowed to fill at max.
 	#Range: 0.0 ~ 1.0
-	max_height = 0.3
+	max_height = 0.4
 	#Scale of entries. A lower scale will make room for more rows to show. Works together with "GUI Scale" option in "Video Settings".
 	#Range: 1 ~ 24
 	scale = 4
