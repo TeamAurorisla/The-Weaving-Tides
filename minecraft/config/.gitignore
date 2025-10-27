@@ -1,12 +1,15 @@
 #folders
 !inventoryprofilesnext/
 inventoryprofilesnext/*
+!drippyloadingscreen/
 !fancymenu/
 !incontrol/
 !InventoryHUD/
 !jade/
+!loadingscreens/
 !paxi/
 !pickupnotifier/
+!sounds/
 
 #files
 !.gitignore
@@ -15,7 +18,7 @@ inventoryprofilesnext/*
 !chloride-client.json
 !clearwater.jsonc
 !cull-less-leaves.json
-!deeper_oceans.json
+!ding.toml
 !embeddium*.*
 !emi*.*
 !immediatelyfast.json
@@ -26,8 +29,14 @@ inventoryprofilesnext/*
 !loquat*.yaml
 !lsp.json
 !minieffects-client.yaml
+!modmenu.json
+!overflowingbars-client.toml
 !patchouli-client.toml
 !smoothscroll.json
 !sodium*.*
+!tips.json
 !toastcontrol-common.toml
+!travelerstitles-forge-1_20.toml
+!upgrade_aquatic*.toml
+!verdant-*.toml
 !xaero*.*
