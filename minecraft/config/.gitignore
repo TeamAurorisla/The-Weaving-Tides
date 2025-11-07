@@ -34,6 +34,7 @@ inventoryprofilesnext/*
 !patchouli-client.toml
 !smoothscroll.json
 !sodium*.*
+!tectonic.json
 !tips.json
 !toastcontrol-common.toml
 !travelerstitles-forge-1_20.toml
