@@ -32,12 +32,12 @@ inventoryprofilesnext/*
 !modmenu.json
 !overflowingbars-client.toml
 !patchouli-client.toml
+!RuOK.toml
 !smoothscroll.json
 !sodium*.*
 !tectonic.json
 !tips.json
 !toastcontrol-common.toml
 !travelerstitles-forge-1_20.toml
-!upgrade_aquatic*.toml
 !verdant-*.toml
 !xaero*.*
