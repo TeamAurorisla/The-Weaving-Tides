@@ -18,6 +18,7 @@ inventoryprofilesnext/*
 !chloride-client.json
 !clearwater.jsonc
 !cull-less-leaves.json
+!custom_worldgen-config.json
 !ding.toml
 !embeddium*.*
 !emi*.*
@@ -35,7 +36,6 @@ inventoryprofilesnext/*
 !RuOK.toml
 !smoothscroll.json
 !sodium*.*
-!tectonic.json
 !tips.json
 !toastcontrol-common.toml
 !travelerstitles-forge-1_20.toml
