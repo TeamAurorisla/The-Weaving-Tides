@@ -15,6 +15,7 @@ inventoryprofilesnext/*
 !.gitignore
 !inventoryprofilesnext/inventoryprofiles.json
 !betterfpsdist.json
+!biome_replacer.properties
 !chloride-client.json
 !clearwater.jsonc
 !cull-less-leaves.json
