@@ -1,4 +1,6 @@
 #folders
+!biomeswevegone/
+biomeswevegone/*
 !inventoryprofilesnext/
 inventoryprofilesnext/*
 !drippyloadingscreen/
@@ -13,6 +15,7 @@ inventoryprofilesnext/*
 
 #files
 !.gitignore
+!biomeswevegone/world_generation.json5
 !inventoryprofilesnext/inventoryprofiles.json
 !betterfpsdist.json
 !biome_replacer.properties
@@ -20,6 +23,7 @@ inventoryprofilesnext/*
 !clearwater.jsonc
 !cull-less-leaves.json
 !custom_worldgen-config.json
+!deeper_oceans.json
 !ding.toml
 !embeddium*.*
 !emi*.*
