@@ -59,6 +59,9 @@
     "registry_name": "OFF",
     "mod_name": true
   },
+  "corpse": {
+    "corpse": true
+  },
   "balm": {
     "jade": true
   }
