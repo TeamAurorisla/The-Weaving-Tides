@@ -59,8 +59,12 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "corpse": {
-    "corpse": true
+  "alekiships": {
+    "furnace": true,
+    "jukebox": true,
+    "brewing_stand": true,
+    "block": true,
+    "note_block": true
   },
   "balm": {
     "jade": true
