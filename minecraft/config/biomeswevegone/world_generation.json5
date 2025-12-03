@@ -10,7 +10,7 @@
 		"biomeswevegone:amaranth_grassland": true,
 		"biomeswevegone:rugged_badlands": true,
 		"biomeswevegone:ebony_woods": true,
-		"biomeswevegone:lush_stacks": false,
+		"biomeswevegone:lush_stacks": true,
 		"biomeswevegone:fragment_jungle": true,
 		"biomeswevegone:prairie": true,
 		"biomeswevegone:shattered_glacier": true,
