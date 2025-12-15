@@ -51,6 +51,11 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "treechop": {
+    "plugin": true,
+    "show_tree_block_counts": true,
+    "show_num_chops_remaining": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -58,13 +63,6 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
-  },
-  "alekiships": {
-    "furnace": true,
-    "jukebox": true,
-    "brewing_stand": true,
-    "block": true,
-    "note_block": true
   },
   "balm": {
     "jade": true
