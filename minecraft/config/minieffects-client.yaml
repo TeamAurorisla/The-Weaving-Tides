@@ -1,5 +1,5 @@
 # Use Cloth Config mod for the descriptions.
 ---
-effectsOnLeft: true
+effectsOnLeft: false
 requiresHoldingTab: false
 potionItemIcon: false
