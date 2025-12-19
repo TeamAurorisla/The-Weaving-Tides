@@ -36,7 +36,7 @@
 	showInv = false
 	#Armor HUD durability view (PERCENTAGE, DAMAGE, DAMAGE LEFT)
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT, OFF
-	armView = "OFF"
+	armView = "PERCENTAGE"
 	#Show item durability bar
 	armBars = true
 	#Move all items at once or each one
