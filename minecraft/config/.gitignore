@@ -1,8 +1,6 @@
 #folders
 !biomeswevegone/
 biomeswevegone/*
-!inventoryprofilesnext/
-inventoryprofilesnext/*
 !drippyloadingscreen/
 !fancymenu/
 !incontrol/
@@ -16,7 +14,6 @@ inventoryprofilesnext/*
 #files
 !.gitignore
 !biomeswevegone/world_generation.json5
-!inventoryprofilesnext/inventoryprofiles.json
 !betterfpsdist.json
 !biome_replacer.properties
 !chloride-client.json
@@ -39,7 +36,6 @@ inventoryprofilesnext/*
 !overflowingbars-client.toml
 !patchouli-client.toml
 !RuOK.toml
-!smoothscroll.json
 !sodium*.*
 !tips.json
 !toastcontrol-common.toml
