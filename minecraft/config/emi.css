@@ -46,12 +46,12 @@
 	/**
 	 * Which action should be performed when clicking the recipe book.
 	 */
-	recipe-book-action: toggle-craftables;
+	recipe-book-action: default;
 
 	/**
 	 * Where to display status effects in the inventory.
 	 */
-	effect-location: left-compressed;
+	effect-location: right-compressed;
 
 	/**
 	 * Whether to display a gray overlay when hovering over a stack.
