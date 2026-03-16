@@ -1,12 +1,18 @@
 /*
 
-#folders
-!minecraft/
-minecraft/*
+# folders
+!config/
+config/*
+!defaultconfigs/
+!kubejs/
+!patchouli_books/
+!resourcepacks/
 
-#files
+# files
+!options.txt
+resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip
+
+# git
 !.gitignore
-!instance.cfg
 !LICENSE
-!mmc-pack.json
 !README.md
