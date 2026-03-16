@@ -12,7 +12,8 @@ config/*
 !options.txt
 resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip
 
-# git
+# git & other
 !.gitignore
 !LICENSE
 !README.md
+!世界观.pdf
