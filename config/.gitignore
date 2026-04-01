@@ -1,4 +1,4 @@
-#folders
+# folders
 !biomeswevegone/
 biomeswevegone/*
 !drippyloadingscreen/
@@ -10,12 +10,15 @@ biomeswevegone/*
 !paxi/
 !pickupnotifier/
 !sounds/
+!xaero/
 
-#files
+# files
 !.gitignore
 !biomeswevegone/world_generation.json5
 !betterfpsdist.json
 !biome_replacer.properties
+!block_factorys_bosses-common.toml
+!bosses_rise_config.toml
 !chloride-client.json
 !clearwater.jsonc
 !cull-less-leaves.json
@@ -28,22 +31,23 @@ biomeswevegone/*
 !immersiveui.yaml
 !inventoryhud-client.toml
 !jecharacters.toml
+!legendary_monsters-common.toml
 !lithium.properties
 !loquat*.yaml
 !lsp.json
 !minieffects-client.yaml
+!mobplaques-client.toml
 !modmenu.json
 !overflowingbars-client.toml
 !patchouli-client.toml
 !RuOK.toml
 !sodium*.*
+!the_ruler.json
 !tips.json
 !toastcontrol-common.toml
 !travelerstitles-forge-1_20.toml
 !verdant-*.toml
 !xaero*.*
-!mobplaques-client.toml
-!the_ruler.json
-!legendary_monsters-common.toml
-!bosses_rise_config.toml
-!block_factorys_bosses-common.toml
+
+# blacklist
+embeddium-fingerprint.json
